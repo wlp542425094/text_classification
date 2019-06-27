@@ -1,2 +1,0 @@
-# text_classification
-文件LSTM中我们使用word2vec将tran.tsv构建成词向量word2vec.w2v和词典
